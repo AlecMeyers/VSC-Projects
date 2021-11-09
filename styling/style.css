@@ -1,7 +1,6 @@
 h1 {
     background-color: black ;
-    color: blue;
-    
+    font-style: oblique;
 }
 h2 {
     background-color: purple;
@@ -13,4 +12,10 @@ h3 {
     text-align: right;
     text-decoration: underline;
     color: violet;
+}
+.my {
+    color: white;
+}
+.cloud{
+    color: blue;
 }
