@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+#top{
+display: flex;
+background-color: hotpink;
+justify-content: space-evenly;
+align-items: center;
+}
+#bottom{
+    display: flex;
+    justify-content: space-around;
+    background-color: indigo;
+}
+#middle{
+    display: flex;
+    background-color: lawngreen;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+img{
+    width: 200px;
+}
+.spacing{
+    padding: 20px;
+}
