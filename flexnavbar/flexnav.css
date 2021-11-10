@@ -1,0 +1,19 @@
+.nav{
+    background-color: lightsalmon;
+}
+.nav-links{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 20px;
+}
+body{
+    background-color: lightgreen;
+}
+.active{
+    color: mediumvioletred;
+}
+.btn{
+    border-color: olivedrab;
+    background-color: plum;
+}
