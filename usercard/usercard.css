@@ -1,0 +1,33 @@
+.top{
+    background-color: hotpink;
+}
+.all{
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border: 20px solid indigo;
+}
+h1{
+    font-size: 100px;
+    padding-left: 25px;
+}
+.se{
+    font-size: 75px;
+    padding-left: 25px;
+}
+.words{
+    font-size: 25px;
+    padding-left: 25px;
+}
+.ow{
+    font-size: 25px;
+    padding-left: 25px;
+}
+.ep{
+    padding: 25px;
+}
+input{
+    font-size: large;
+    color: maroon;
+    font-style: italic;
+}
