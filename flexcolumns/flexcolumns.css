@@ -1,0 +1,40 @@
+.row{
+display: flex;
+background-color: red;
+}
+.col{
+background-color: royalblue;
+flex: 1;
+padding: 10px;
+margin: 10px;
+}
+.row1{
+    display: flex;
+    background-color: blueviolet;
+}
+.col1, .col2{
+    background-color: coral;
+    padding: 10px;
+    margin: 10px;
+}
+.col1{
+    flex: 1;
+}
+.col2{
+    flex: 2;
+}
+.row2{
+    display: flex;
+    background-color: fuchsia;
+}
+.col3, .col4{
+    background-color: gold;
+    margin: 10px;
+    padding: 10px;
+}
+.col3{
+    flex: 2;
+}
+.col4{
+    flex: 3;
+}
