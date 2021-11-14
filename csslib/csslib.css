@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.row{
+    margin: 5px;
+    padding: 5px;
+}
+.btn{
+    border-radius: 50%;
+    background-color: blueviolet;
+}
+.navbar{
+    margin: 5px;
+    padding: 5px;
+}
