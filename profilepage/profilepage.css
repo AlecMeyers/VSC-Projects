@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.col1{
+    flex: 2;
+    margin: 25px;
+    padding: 25px;
+    background-color: seagreen;
+    height: 700px;
+}
+.col2{
+    background-color: coral;
+    padding: 25px;
+    margin: 25px;
+    height: 400px;
+    flex: 1;
+}
+.contain{
+    display: flex;
+    margin: 50px;
+    padding: 50px;
+}
+.col3{
+    flex: 1;
+    margin: 25px;
+    padding: 25px;
+    background-color: pink;
+    gap: 20px;
+    position: relative;
+    top: 100px;
+    right: 50px;
+}
+.col4{
+    flex: 1;
+    margin: 25px;
+    padding: 25px;
+    background-color: lightseagreen;
+    height: 550px;
+    position: relative;
+    top: 120px;
+}
+.ac{
+    position: relative;
+    left: 150px;
+    padding: 5px;
+}
+.jane{
+    background-color: blue;
+}
+.janeinfo{
+    position: relative;
+    top: 50px;
+    padding: 10px;
+    font-size: 30px;
+}
+.janepic{
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+.cpics{
+    position: relative;
+    left: 95px;
+    top: 20px;
+    padding: 10px;
+}
+.chead{
+    background-color: darkmagenta;
+    padding: 10px;
+    margin: 10px;
+}
+.cr{
+    background-color: limegreen;
+    padding: 10px;
+    margin: 10px;
+}
+.edu{
+    background-color: maroon;
+    padding: 10px;
+    margin: 10px;
+}
+.date{
+    font-style: oblique;
+    padding: 3px;
+}
+.cdfs{
+    padding: 3px;
+}
