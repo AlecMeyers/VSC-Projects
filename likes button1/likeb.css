@@ -1,0 +1,15 @@
+.contain{
+    background-color: rebeccapurple;
+    margin: 70px;
+    max-width: 300px;
+}
+.contain1{
+    background-color: red;
+    margin: 70px;
+    max-width: 300px;
+}
+.contain2{
+    background-color: palevioletred;
+    margin: 70px;
+    max-width: 300px;
+}
